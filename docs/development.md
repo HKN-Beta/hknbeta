@@ -55,4 +55,4 @@ git push
 
 ### View your changes on the updated page
 
-Once you've pushed your changes, you can navigate to the [HKN Beta website](https://hkn-beta.github.io/hknbeta/) to see your changes live.  If you don't see your changes, try refreshing the page.
+Once you've pushed your changes, you can navigate to the [documentation website](https://hkn-beta.github.io/hknbeta/) to see your changes live.  If you don't see your changes, try refreshing the page.  Changes will take a long time to render, so we highly suggest previewing your changes locally before pushing them.
